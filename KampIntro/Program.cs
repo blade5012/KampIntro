@@ -33,6 +33,10 @@ namespace KampIntro
             {
                 Console.WriteLine("giriş yap butonu");
             }
+
+            Object sayi = 1;
+            Object renk = "kalem";
+// he öle
         }
     }
 }
